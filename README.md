@@ -1,5 +1,5 @@
 # HolisitcGuidanceOccReID
-Code for ICCV submission Holistic Guidance
+Code for BMVC submission Holistic Guidance
 
 
     #Installation
