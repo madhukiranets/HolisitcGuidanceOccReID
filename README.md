@@ -1,7 +1,7 @@
 # HolisitcGuidanceOccReID
 Code for BMVC submission Holistic Guidance
 
-
+![alt text](https://github.com/madhukiranets/HolisitcGuidanceOccReID2/blob/master/core_method.png)
     #Installation
     conda create --name holistic-reid python=3.7
     conda activate holistic-reid
