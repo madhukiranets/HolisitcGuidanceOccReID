@@ -1,5 +1,8 @@
 # HolisitcGuidanceOccReID
-Code for BMVC submission Holistic Guidance
+Code for British Machine Vision Conference 2021: Holistic Guidance for Occluded Person ReID
+
+
+https://www.bmvc2021-virtualconference.com/assets/papers/1087.pdf
 
 ![alt text](https://github.com/madhukiranets/HolisitcGuidanceOccReID2/blob/master/core_method.png)
     #Installation
